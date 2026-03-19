@@ -1,6 +1,8 @@
-# Vaibhav Nagdeo - Portfolio 
+# Vaibhav Nagdeo - Portfolio
 
 Welcome to my portfolio! This repository showcases my work as a software engineer, highlighting expertise in AI, backend systems, and modern web development with a focus on high-performance 3D animations.
+
+![Portfolio-Preview](public/images/preview.png)
 
 ---
 
@@ -19,7 +21,7 @@ Welcome to my portfolio! This repository showcases my work as a software enginee
 
 ---
 
-##  Key Features
+## Key Features
 
 - **Immersive 3D Experiences**: Leveraging Three.js and WebGL for interactive 3D elements.
 - **Fluid Animations**: High-performance animations and transitions using GSAP.
